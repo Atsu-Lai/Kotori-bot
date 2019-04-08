@@ -1,7 +1,8 @@
 <?php
-defined('BASEPATH') OR exit('No direct script access allowed');
+    echo 'Kotori';
+// defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Linebot extends CI_Controller {
+// class Linebot extends CI_Controller {
 
     // public function index()
     // {
@@ -56,4 +57,4 @@ class Linebot extends CI_Controller {
     //     $result = curl_exec($ch);
     //     curl_close($ch);
     // }
-}
+// }
